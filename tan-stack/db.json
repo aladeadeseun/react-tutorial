@@ -1,0 +1,223 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Elon Musk Interview",
+      "body": "Discussing Mars mission"
+    },
+    {
+      "id": "2",
+      "title": "Marques Reviews Tesla",
+      "body": "Tesla's latest EV review"
+    },
+    {
+      "id": "3",
+      "title": "AI in 2024",
+      "body": "Impact on daily life"
+    }
+  ],
+  "fruits": [
+    {
+      "id": "1",
+      "name": "Apple"
+    },
+    {
+      "id": "2",
+      "name": "Banana"
+    },
+    {
+      "id": "3",
+      "name": "Orange"
+    },
+    {
+      "id": "4",
+      "name": "Strawberry"
+    },
+    {
+      "id": "5",
+      "name": "Mango"
+    },
+    {
+      "id": "6",
+      "name": "Pineapple"
+    },
+    {
+      "id": "7",
+      "name": "Grapes"
+    },
+    {
+      "id": "8",
+      "name": "Watermelon"
+    },
+    {
+      "id": "9",
+      "name": "Blueberry"
+    },
+    {
+      "id": "10",
+      "name": "Cherry"
+    },
+    {
+      "id": "11",
+      "name": "Peach"
+    },
+    {
+      "id": "12",
+      "name": "Plum"
+    },
+    {
+      "id": "13",
+      "name": "Kiwi"
+    },
+    {
+      "id": "14",
+      "name": "Papaya"
+    },
+    {
+      "id": "15",
+      "name": "Pomegranate"
+    },
+    {
+      "id": "16",
+      "name": "Lemon"
+    },
+    {
+      "id": "17",
+      "name": "Coconut"
+    },
+    {
+      "id": "18",
+      "name": "Pear"
+    },
+    {
+      "id": "19",
+      "name": "Guava"
+    },
+    {
+      "id": "20",
+      "name": "Lychee"
+    }
+  ],
+  "todos": [
+    {
+      "checked": true,
+      "title": "the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33",
+      "description": "the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum",
+      "id": "1"
+    },
+    {
+      "checked": false,
+      "title": "Bonorum et Malorum (The Extremes of Good and Evil)",
+      "description": "ture, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "id": "2"
+    },
+    {
+      "checked": true,
+      "title": "Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum",
+      "description": "discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "id": "3"
+    },
+    {
+      "checked": true,
+      "title": "Bonorum et Malorum (The Extremes of Good and Evil) by",
+      "description": "Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "id": "5"
+    },
+    {
+      "checked": false,
+      "title": "undoubtable source. Lorem Ipsum comes from sections",
+      "description": "undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written",
+      "id": "6"
+    },
+    {
+      "checked": true,
+      "title": "t. All the Lorem Ipsum generators on",
+      "description": "the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over",
+      "id": "7"
+    },
+    {
+      "checked": true,
+      "title": "sections 1.10.32 and 1.10.33 of de Finibus Bonorum",
+      "description": "source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero",
+      "id": "9"
+    },
+    {
+      "checked": false,
+      "title": "Bonorum et Malorum (The",
+      "description": "Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "id": "10"
+    },
+    {
+      "checked": true,
+      "title": "he Extremes of Good and Evil) by Cicero",
+      "description": "t Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics Malorum (The Extremes of Good and Evil) by Cicero",
+      "id": "11"
+    },
+    {
+      "checked": true,
+      "title": "Malorum (The Extremes of Good and Evil) by Cicero",
+      "description": "Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics Malorum (The Extremes of Good and Evil) by Cicero",
+      "id": "13"
+    },
+    {
+      "checked": true,
+      "title": "discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum",
+      "description": "ture, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics,",
+      "id": "15"
+    },
+    {
+      "checked": true,
+      "title": "literature from 45 BC, making it over 2000 years old.",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "id": "17"
+    },
+    {
+      "checked": false,
+      "title": "is simply dummy text of the printing an",
+      "description": "five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets",
+      "id": "18"
+    },
+    {
+      "checked": true,
+      "title": "discovered the undoubtable source. Lorem Ipsum comes",
+      "description": "discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics",
+      "id": "19"
+    },
+    {
+      "checked": false,
+      "title": "(The Extremes of Good and Evil) by Cicero",
+      "description": "discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics,",
+      "id": "20"
+    },
+    {
+      "id": "7ff6",
+      "title": "this is a test",
+      "description": "dfdfdfdfdfdfdfdf",
+      "checked": false
+    },
+    {
+      "id": "4332",
+      "title": "Let's play catch up",
+      "description": "this is a catch up a game.",
+      "checked": false
+    },
+    {
+      "id": "cf99",
+      "title": "this is a tesgt",
+      "description": "this isisisisisisisisisisisiss",
+      "checked": false
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "name": "project 1"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "product 1"
+    }
+  ]
+}

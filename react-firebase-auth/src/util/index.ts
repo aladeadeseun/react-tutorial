@@ -1,0 +1,1 @@
+export const getRandomId = ()=>(Math.random() * Math.random() * Math.random()).toString(16).replace(".", "")
